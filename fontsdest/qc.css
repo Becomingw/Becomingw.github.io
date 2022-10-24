@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "青春字体";
+    src: url("qc.eot"); /* IE9 */
+    src: url("qc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("qc.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("qc.woff") format("woff"), /* chrome, firefox */
+    url("qc.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("qc.svg#青春字体") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
